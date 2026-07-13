@@ -1,4 +1,4 @@
-# Hey, I'm Rajiyalam 👋
+# Hey, I'm Rajiyaalam 👋
 
 I'm an MBA student specializing in **Business Analytics** from Pune, India. I love digging into data, finding patterns that actually matter, and turning messy spreadsheets into something people can act on.
 
