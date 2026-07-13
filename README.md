@@ -11,7 +11,8 @@ Still learning, always curious, and genuinely excited about where data can take 
 - 🎓 MBA in Business Analytics — currently in my final stretch
 - 📊 I get excited about dashboards, SQL queries, and Python scripts that actually save time
 - 🌱 Actively building skills in Machine Learning and Cloud Analytics
-- 🏗️  Looking for opportunities in **data analytics / business intelligence**
+- 🏗️ Looking for opportunities in **data analytics / business intelligence**
+- 🎧 Outside of data — I enjoy chess, cycling, and cooking
 - 📍 Pune, Maharashtra, India
 
 ---
@@ -49,7 +50,11 @@ Still learning, always curious, and genuinely excited about where data can take 
 
 ## GitHub Stats
 
-![Rajiyalam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajiyalam&show_icons=true&theme=dark&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajiyalam&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajiyalam&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -57,5 +62,5 @@ Still learning, always curious, and genuinely excited about where data can take 
 
 I'm always open to talking data, collaborating on projects, or just a good conversation. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajiyalam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajiyalam-sheikh)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajiyalam@gmail.com)
