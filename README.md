@@ -45,17 +45,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🌾 **Farm Analytics Dashboard** | Sales & inventory analysis for agricultural business | Python, Power BI, Excel |
-| 🧠 **Memory Assistant App** | Personal memory aid for Alzheimer's patients | Python, ML, IoT |
-| 📈 **Business Insights Pipeline** | End-to-end data pipeline for business reporting | SQL, Python, GCP |
-| 🖥️ **Class Monitoring System** | Advanced attendance & monitoring system | Java, SQL |
-
----
-
 ## 📊 GitHub Stats
 
 ![Rajiyalam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajiyalam&show_icons=true&theme=dark&hide_border=true)
