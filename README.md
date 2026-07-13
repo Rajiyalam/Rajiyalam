@@ -12,7 +12,6 @@ Still learning, always curious, and genuinely excited about where data can take 
 - 📊 I get excited about dashboards, SQL queries, and Python scripts that actually save time
 - 🌱 Actively building skills in Machine Learning and Cloud Analytics
 - 🏗️  Looking for opportunities in **data analytics / business intelligence**
-- 🎧 Outside of data — I enjoy chess, cycling, and cooking
 - 📍 Pune, Maharashtra, India
 
 ---
